@@ -1,0 +1,30 @@
+C:\programacion\ejersicios semana 2\bin\Debug\net6.0\ejersicios semana 2.exe
+C:\programacion\ejersicios semana 2\bin\Debug\net6.0\ejersicios semana 2.deps.json
+C:\programacion\ejersicios semana 2\bin\Debug\net6.0\ejersicios semana 2.runtimeconfig.json
+C:\programacion\ejersicios semana 2\bin\Debug\net6.0\ejersicios semana 2.dll
+C:\programacion\ejersicios semana 2\bin\Debug\net6.0\ejersicios semana 2.pdb
+C:\programacion\ejersicios semana 2\obj\Debug\net6.0\ejersicios semana 2.csproj.AssemblyReference.cache
+C:\programacion\ejersicios semana 2\obj\Debug\net6.0\ejersicios semana 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacion\ejersicios semana 2\obj\Debug\net6.0\ejersicios semana 2.AssemblyInfoInputs.cache
+C:\programacion\ejersicios semana 2\obj\Debug\net6.0\ejersicios semana 2.AssemblyInfo.cs
+C:\programacion\ejersicios semana 2\obj\Debug\net6.0\ejersicios semana 2.csproj.CoreCompileInputs.cache
+C:\programacion\ejersicios semana 2\obj\Debug\net6.0\ejersicios semana 2.dll
+C:\programacion\ejersicios semana 2\obj\Debug\net6.0\refint\ejersicios semana 2.dll
+C:\programacion\ejersicios semana 2\obj\Debug\net6.0\ejersicios semana 2.pdb
+C:\programacion\ejersicios semana 2\obj\Debug\net6.0\ejersicios semana 2.genruntimeconfig.cache
+C:\programacion\ejersicios semana 2\obj\Debug\net6.0\ref\ejersicios semana 2.dll
+C:\programacion\semana2\bin\Debug\net6.0\ejersicios semana 2.exe
+C:\programacion\semana2\bin\Debug\net6.0\ejersicios semana 2.deps.json
+C:\programacion\semana2\bin\Debug\net6.0\ejersicios semana 2.runtimeconfig.json
+C:\programacion\semana2\bin\Debug\net6.0\ejersicios semana 2.dll
+C:\programacion\semana2\bin\Debug\net6.0\ejersicios semana 2.pdb
+C:\programacion\semana2\obj\Debug\net6.0\ejersicios semana 2.csproj.AssemblyReference.cache
+C:\programacion\semana2\obj\Debug\net6.0\ejersicios semana 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacion\semana2\obj\Debug\net6.0\ejersicios semana 2.AssemblyInfoInputs.cache
+C:\programacion\semana2\obj\Debug\net6.0\ejersicios semana 2.AssemblyInfo.cs
+C:\programacion\semana2\obj\Debug\net6.0\ejersicios semana 2.csproj.CoreCompileInputs.cache
+C:\programacion\semana2\obj\Debug\net6.0\ejersicios semana 2.dll
+C:\programacion\semana2\obj\Debug\net6.0\refint\ejersicios semana 2.dll
+C:\programacion\semana2\obj\Debug\net6.0\ejersicios semana 2.pdb
+C:\programacion\semana2\obj\Debug\net6.0\ejersicios semana 2.genruntimeconfig.cache
+C:\programacion\semana2\obj\Debug\net6.0\ref\ejersicios semana 2.dll
